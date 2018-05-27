@@ -1,1 +1,6 @@
+
 new file added on Master.
+
+new file added in branch- newRepoBranch
+
+both changes need
